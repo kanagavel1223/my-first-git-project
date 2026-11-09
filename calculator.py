@@ -19,7 +19,7 @@ if choice==3:
 if choice==4:
       if num2 != 0:
         print("Result:", num1 / num2)
-    else:
+      else:
         print("Cannot divide by zero!")
 
 else:
